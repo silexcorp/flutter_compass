@@ -1,6 +1,8 @@
 # example
 
-A new Flutter project.
+Flutter Compass
+
+![alt text](https://github.com/silexcorp/flutter_compass/screenshot/compass_sc.png)
 
 ## Getting Started
 
