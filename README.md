@@ -2,7 +2,7 @@
 
 Flutter Compass
 
-![alt text](https://github.com/silexcorp/flutter_compass/screenshot/compass_sc.png)
+![alt text](https://github.com/silexcorp/flutter_compass/blob/master/screenshot/compass_sc.png)
 
 ## Getting Started
 
